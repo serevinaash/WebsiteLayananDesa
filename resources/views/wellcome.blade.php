@@ -549,7 +549,7 @@ document.getElementById('scroll-right').addEventListener('click', function() {
         @media (max-width: 768px) {
 
             .welcome-heading {
-                font-size: 20px;
+                font-size: 30px;
             }
 
             .welcome-paragraph {
